@@ -1,0 +1,4 @@
+Function main()
+{
+  Print("This is test file")
+}
